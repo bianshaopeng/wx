@@ -1,0 +1,5 @@
+
+<view>
+<button bindtap='getLocation'>获取经纬度</button>
+<button bindtap='openMap'>打开地图</button>
+</view>

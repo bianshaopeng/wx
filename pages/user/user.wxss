@@ -1,0 +1,30 @@
+
+.all{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: url()
+
+  
+}
+.contair image{
+  width: 100%;
+  height: 100%;
+  border-radius: 50px;
+}
+.contair{
+  width: 200rpx;
+  height: 200rpx; 
+ 
+}
+.btn{
+  width: 50%;
+  background-color: red;
+  color: white;
+  border-radius: 50px;
+}
+.btn ::after{
+  color: gold
+
+}

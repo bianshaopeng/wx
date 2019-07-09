@@ -1,0 +1,11 @@
+
+
+<button data-i='ss' class='btn'bindtap='click'>click</button>
+
+<text>ssss</text>
+<view class='all'>
+<view class='contair' >
+ <image    src="{{avatarUrl}}" calss="image-title"></image>
+</view>
+<view>{{users}}</view>
+</view>
